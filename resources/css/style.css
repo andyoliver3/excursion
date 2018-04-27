@@ -2,16 +2,25 @@ body{
   font-family: verdana;
   text-align: center;
   background-color: black;
+  color: white;
 }
 h1{
-font-family: verdana;
   font-weight: normal;
   font-size: 50px;
-  color: white;
-  text-align: center;
+  }
+h2{
+  font-weight: 300;
+  font-size: 42px
 }
 .link{
   font-size: 16px;
-  font-weight: normal;
+  font-weight: bold;
   color: #7fffD4;
+}
+p{
+font-size: 21px;
+color: gray;
+}
+.end{
+  text-align: right;
 }
